@@ -1,2 +1,2 @@
 # FileUploadLib
-A NestJS library for file uploads
+a NestJS library for file uploads
